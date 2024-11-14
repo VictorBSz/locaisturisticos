@@ -23,7 +23,9 @@
 }
 
 #container {
-    margin: auto
+    margin: auto;
+    max-width: 1120px;
+    font-family: "Alice", serif;
 }
 
 .hl {
